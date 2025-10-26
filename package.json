@@ -29,7 +29,7 @@
     "solidity",
     "hardhat"
   ],
-  "author": "Your Name",
+  "author": "ABDUL GAFFAR",
   "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
