@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/utils/ReentrancyGuard.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-/**
+/*
  * @title SimpleDEX
  * @dev A simple decentralized exchange using constant product AMM (x * y = k)
  */
