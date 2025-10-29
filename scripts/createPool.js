@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 async function main() {
-  console.log("\n💧 Initializing Liquidity Pool...\n");
+  console.log("\n💧 Initializing Liquidity Pool....\n");
 
   // Load deployment addresses
   const deploymentPath = path.join(__dirname, "../deployment-addresses.json");
