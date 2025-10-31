@@ -173,29 +173,12 @@ Uses **constant product formula**: `x * y = k`
 - Token farming/staking
 - Gasless transactions (meta-transactions)
 
-##deploy logs...
-1. Deploying test tokens...
-Token A deployed to: 0x848c6427f3A655080897FFC96a73F78CDbf15bEf
-Token B deployed to: 0xB0f4116aE839e5BEb2FAbAD41FBC80B546162689
+##Contract details:
 
-2. Deploying DEX contract...
-DEX deployed to: 0x6d1Ff0C5A7fbcf65A85016CF5F1d7eCC21261193
+contract address: 0x6d1Ff0C5A7fbcf65A85016CF5F1d7eCC21261193
 
-✅ Deployment Summary:
-{
-  "network": "Core Testnet2",
-  "chainId": 1114,
-  "deployer": "0xd3761B4E38C09119266Ce2d74868a80e3c3e5B2b",
-  "contracts": {
-    "DEX": "0x6d1Ff0C5A7fbcf65A85016CF5F1d7eCC21261193",
-    "TokenA": "0x848c6427f3A655080897FFC96a73F78CDbf15bEf",
-    "TokenB": "0xB0f4116aE839e5BEb2FAbAD41FBC80B546162689"
-  },
-  "explorer": "https://scan.test2.btcs.network/address/0x6d1Ff0C5A7fbcf65A85016CF5F1d7eCC21261193",
-  "timestamp": "2025-10-29T13:35:27.645Z"
-}
+<img width="1420" height="690" alt="image" src="https://github.com/user-attachments/assets/49426092-9659-4a3d-bc47-66450a29aa94" />
 
-📄 Deployment info saved to deployment-info.json
 
 
 ## License
