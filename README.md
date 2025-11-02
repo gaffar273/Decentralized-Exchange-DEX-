@@ -6,7 +6,7 @@ A beginner-friendly decentralized exchange for swapping tokens on the blockchain
 
 ## Overview
 
-This is a simple DEX where users can swap tokens directly from their crypto wallets. No sign-up needed - just connect your wallet and start trading!
+This is a simple DEX where users can swap tokens directly from their crypto wallets. No sign-up needed - just connect your wallet and start trading
 
 ## Features
 
